@@ -1,4 +1,4 @@
-# Module 1 Final Project - KC dataset analysis
+# Module 1 Final Project - King county dataset analysis
 
 
 ## Overview
@@ -7,11 +7,14 @@ The king county housing market is highly competitive, and we want to be the best
 ## Install
 This project requires Python 3 and the following Python libraries installed:
 
-NumPy
-Pandas
-Seaborn
-statsmodels.api
-scipy
+- NumPy
+- Pandas
+- Seaborn
+- statsmodels.api
+- scikit.learn
+- scipy
+- geopandas
+- descartes
 
 ## Data
 kc_house_dataset.csv
