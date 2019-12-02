@@ -11,6 +11,7 @@ NumPy
 Pandas
 Seaborn
 statsmodels.api
+scipy
 
 ## Data
 kc_house_dataset.csv
